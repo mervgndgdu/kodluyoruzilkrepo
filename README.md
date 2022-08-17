@@ -21,4 +21,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+```
 [Patika hesabıma ulaşmak için tıklayın]https://app.patika.dev/mervegundogdu
+```
